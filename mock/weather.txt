@@ -1,0 +1,470 @@
+	
+items	
+0	
+tags	
+0	"sql"
+owner	
+reputation	29
+user_id	9907691
+user_type	"registered"
+profile_image	"https://lh3.googleusercontent.com/-8lZxSnHrmRc/AAAAAAAAAAI/AAAAAAAAAUQ/5ARC7j_KrvU/photo.jpg?sz=128"
+display_name	"Jassim"
+link	"https://stackoverflow.com/users/9907691/jassim"
+is_answered	true
+view_count	15382
+answer_count	15
+score	2
+last_activity_date	1625572497
+creation_date	1528362499
+last_edit_date	1528362732
+question_id	50737288
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/50737288/hackerrank-weather-observation-station-5"
+title	"HackerRank Weather Observation Station 5"
+1	
+tags	
+0	"python"
+1	"jupyter-notebook"
+2	"coordinates"
+3	"weather"
+4	"weather-api"
+owner	
+reputation	1
+user_id	14457806
+user_type	"registered"
+profile_image	"https://graph.facebook.com/10207906734207212/picture?type=large"
+display_name	"Mohammed Ramadan"
+link	"https://stackoverflow.com/users/14457806/mohammed-ramadan"
+is_answered	false
+view_count	15
+closed_date	1625401553
+answer_count	0
+score	-3
+last_activity_date	1625393247
+creation_date	1625393247
+question_id	68243590
+link	"https://stackoverflow.com/questions/68243590/an-api-to-get-historical-weather-forecast-to-data-in-csv-format-using-python-wit"
+closed_reason	"Not suitable for this site"
+title	"An API to get Historical Weather Forecast to data in CSV format using Python with degrees coordinates"
+2	
+tags	
+0	"api"
+1	"jupyter-notebook"
+2	"coordinates"
+3	"weather"
+4	"weather-api"
+owner	
+reputation	1
+user_id	14457806
+user_type	"registered"
+profile_image	"https://graph.facebook.com/10207906734207212/picture?type=large"
+display_name	"Mohammed Ramadan"
+link	"https://stackoverflow.com/users/14457806/mohammed-ramadan"
+is_answered	false
+view_count	9
+answer_count	0
+score	0
+last_activity_date	1625267913
+creation_date	1625267162
+last_edit_date	1625267913
+question_id	68232049
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68232049/world-weather-api-historical-data-frame-without-coordinates"
+title	"World weather api historical data frame without coordinates?"
+3	
+tags	
+0	"javascript"
+1	"reactjs"
+2	"react-hooks"
+3	"fetch"
+owner	
+reputation	1
+user_id	16148424
+user_type	"registered"
+profile_image	"https://www.gravatar.com/avatar/056f173593bf17f9704945d8e3805908?s=128&d=identicon&r=PG"
+display_name	"arthur luna freire"
+link	"https://stackoverflow.com/users/16148424/arthur-luna-freire"
+is_answered	false
+view_count	29
+closed_date	1625257512
+answer_count	3
+score	-1
+last_activity_date	1625257305
+creation_date	1625254354
+last_edit_date	1625255085
+question_id	68230451
+link	"https://stackoverflow.com/questions/68230451/i%c2%b4m-trying-to-build-a-weather-app-with-react-and-fetchapi-and-i-can%c2%b4t-manage-to"
+closed_reason	"Needs details or clarity"
+title	"I&#180;m trying to build a weather app with react and FetchAPI and I can&#180;t manage to find why my application is bugging"
+4	
+tags	
+0	"javascript"
+1	"json"
+2	"node.js"
+owner	
+reputation	77
+user_id	9077524
+user_type	"registered"
+profile_image	"https://www.gravatar.com/avatar/e2622a6a939694448029bce7c5981719?s=128&d=identicon&r=PG&f=1"
+display_name	"cdoern"
+link	"https://stackoverflow.com/users/9077524/cdoern"
+is_answered	false
+view_count	246
+answer_count	3
+score	0
+last_activity_date	1625222337
+creation_date	1532880973
+last_edit_date	1592644375
+question_id	51582233
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/51582233/weather-js-extracting-specific-data-from-what-is-printed"
+title	"weather-js extracting specific data from what is printed"
+5	
+tags	
+0	"javascript"
+1	"reactjs"
+2	"api"
+3	"axios"
+owner	
+reputation	1
+user_id	16254938
+user_type	"registered"
+profile_image	"https://lh3.googleusercontent.com/-WTZeJzSpYKw/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucm-LvoOtLFGP7O6ED-Ea1-Ng_XjJA/s96-c/photo.jpg?sz=128"
+display_name	"Jero Gallego"
+link	"https://stackoverflow.com/users/16254938/jero-gallego"
+is_answered	false
+view_count	38
+answer_count	0
+score	0
+last_activity_date	1625085928
+creation_date	1624981521
+last_edit_date	1625085928
+question_id	68181943
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68181943/why-is-weather-stack-throwing-me-this-error-on-react"
+title	"Why is weather stack throwing me this error on React?"
+6	
+tags	
+0	"wordpress"
+1	"dart"
+2	"elementor"
+3	"custom-widgets"
+owner	
+reputation	37
+user_id	11850259
+user_type	"registered"
+profile_image	"https://www.gravatar.com/avatar/e9658e73912d7e5e5b71e9a23dde9c7e?s=128&d=identicon&r=PG&f=1"
+display_name	"Nikkkshit"
+link	"https://stackoverflow.com/users/11850259/nikkkshit"
+is_answered	false
+view_count	11
+answer_count	0
+score	-1
+last_activity_date	1625070611
+creation_date	1625070611
+question_id	68198522
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68198522/i-am-looking-for-the-information-regarding-weather-it-is-possible-to-create-a-cu"
+title	"I am looking for the information regarding weather it is possible to create a custom elemantor widget using Dart language?"
+7	
+tags	
+0	"javascript"
+1	"reactjs"
+owner	
+reputation	1
+user_id	16006194
+user_type	"registered"
+profile_image	"https://lh5.googleusercontent.com/-XAM00wnmD1w/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckFwdgPOPBA1L-ej90jBbgSQ62Z9Q/s96-c/photo.jpg?sz=128"
+display_name	"AKR"
+link	"https://stackoverflow.com/users/16006194/akr"
+is_answered	false
+view_count	21
+answer_count	0
+score	0
+last_activity_date	1625068542
+creation_date	1625068542
+question_id	68198073
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68198073/add-multiple-cities-weather-openweather-onclick"
+title	"add multiple cities weather openweather onClick"
+8	
+tags	
+0	"python"
+1	"python-3.x"
+owner	
+reputation	13
+user_id	16289704
+user_type	"registered"
+profile_image	"https://www.gravatar.com/avatar/091dfa93f2bcda31a383182eb43eaa8b?s=128&d=identicon&r=PG&f=1"
+display_name	"Developer"
+link	"https://stackoverflow.com/users/16289704/developer"
+is_answered	true
+view_count	33
+accepted_answer_id	68192218
+answer_count	1
+score	0
+last_activity_date	1625045794
+creation_date	1625044893
+question_id	68191974
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68191974/how-to-obtain-the-weather-in-a-computers-location-by-using-its-latitude-and-lon"
+title	"How to obtain the weather in a computer&#39;s location by using its latitude and longitude in Python?"
+9	
+tags	
+0	"c#"
+1	"windows"
+2	"visual-studio"
+3	"object"
+4	"console"
+owner	
+reputation	1
+user_id	11955968
+user_type	"registered"
+profile_image	"https://www.gravatar.com/avatar/77cc859e242d7cb18a53a209981c5a66?s=128&d=identicon&r=PG&f=1"
+display_name	"M0nk3y"
+link	"https://stackoverflow.com/users/11955968/m0nk3y"
+is_answered	false
+view_count	24
+answer_count	0
+score	-2
+last_activity_date	1624975581
+creation_date	1624975581
+question_id	68180360
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68180360/how-to-operate-on-time-and-weather-in-raft-using-c"
+title	"How to operate on time and weather in Raft using C#"
+10	
+tags	
+0	"python"
+1	"dataframe"
+2	"api"
+3	"url"
+4	"noaa"
+owner	
+reputation	11
+user_id	16335963
+user_type	"registered"
+profile_image	"https://www.gravatar.com/avatar/1478d06063dd8948d0b032d7268003da?s=128&d=identicon&r=PG&f=1"
+display_name	"amanda"
+link	"https://stackoverflow.com/users/16335963/amanda"
+is_answered	false
+view_count	14
+answer_count	0
+score	1
+last_activity_date	1624899999
+creation_date	1624898269
+last_edit_date	1624899999
+question_id	68167057
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68167057/weather-data-from-noaa-api-returning-error-from-server"
+title	"Weather data from NOAA API returning error from server"
+11	
+tags	
+0	"api"
+1	"uitableview"
+2	"controller"
+owner	
+reputation	1
+user_id	16335673
+user_type	"registered"
+profile_image	"https://www.gravatar.com/avatar/d3555166348cdc95707ff2403711f9eb?s=128&d=identicon&r=PG&f=1"
+display_name	"cdubbdee"
+link	"https://stackoverflow.com/users/16335673/cdubbdee"
+is_answered	false
+view_count	6
+answer_count	0
+score	0
+last_activity_date	1624895948
+creation_date	1624895948
+question_id	68166515
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68166515/the-open-weather-api-data-is-coming-into-the-first-controller-but-i-want-to-dis"
+title	"The open weather api data is coming into the first controller, but I want to display the city and temp humidy in another controller with labels. How?"
+12	
+tags	
+0	"node.js"
+1	"nodejs-server"
+owner	
+reputation	1
+user_id	14506341
+user_type	"registered"
+profile_image	"https://lh3.googleusercontent.com/a-/AOh14Gi1jnxZTTt6D8pD62Djnbp7qXjG1dvN2jvRDwOfeQ=k-s128"
+display_name	"abheet kumar"
+link	"https://stackoverflow.com/users/14506341/abheet-kumar"
+is_answered	false
+view_count	12
+answer_count	0
+score	0
+last_activity_date	1624662441
+creation_date	1624662441
+question_id	68137848
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68137848/why-my-localhost-is-loading-continously-i-have-a-weather-app-by-fetching-the-re"
+title	"why my localhost is loading continously? I have a weather app by fetching the result from APi"
+13	
+tags	
+0	"flutter"
+1	"dart"
+2	"integer"
+3	"user-input"
+4	"dart-null-safety"
+owner	
+reputation	7
+user_id	14771250
+user_type	"registered"
+profile_image	"https://i.stack.imgur.com/DMAdH.jpg?s=128&g=1"
+display_name	"REtr0"
+link	"https://stackoverflow.com/users/14771250/retr0"
+is_answered	false
+view_count	53
+closed_date	1624655639
+answer_count	1
+score	-2
+last_activity_date	1624656487
+creation_date	1624654900
+last_edit_date	1624656487
+question_id	68137032
+link	"https://stackoverflow.com/questions/68137032/how-to-take-integer-input-in-dart-after-the-null-safety-update-without-using-the"
+closed_reason	"Duplicate"
+title	"How to take integer input in dart after the null safety update without using the if block for veriying weather the variable is null or not?"
+14	
+tags	
+0	"emacs"
+owner	
+reputation	97
+user_id	212064
+user_type	"registered"
+accept_rate	33
+profile_image	"https://www.gravatar.com/avatar/e1c81eff8f508ac58ea6e03b0cf524e0?s=128&d=identicon&r=PG"
+display_name	"unixbhaskar"
+link	"https://stackoverflow.com/users/212064/unixbhaskar"
+is_answered	false
+view_count	14
+answer_count	0
+score	0
+last_activity_date	1624534310
+creation_date	1624534310
+question_id	68114933
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68114933/weather-metno-throwing-errors-in-emacs"
+title	"Weather-metno throwing errors in emacs"
+15	
+tags	
+0	"ios"
+1	"swift"
+2	"phasset"
+3	"phphotolibrary"
+4	"phfetchoptions"
+owner	
+reputation	460
+user_id	5667080
+user_type	"registered"
+accept_rate	33
+profile_image	"https://i.stack.imgur.com/LyBC1.jpg?s=128&g=1"
+display_name	"Prashant Ghimire"
+link	"https://stackoverflow.com/users/5667080/prashant-ghimire"
+is_answered	true
+view_count	60
+answer_count	1
+score	0
+last_activity_date	1624354336
+creation_date	1624271731
+last_edit_date	1624272577
+question_id	68066378
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68066378/get-video-metadata-how-to-detect-weather-the-video-is-taken-from-front-camera-o"
+title	"Get video metadata, How to detect weather the video is taken from front camera or back camera"
+16	
+tags	
+0	"python"
+1	"parsing"
+2	"request"
+owner	
+reputation	1
+user_id	12798176
+user_type	"registered"
+profile_image	"https://www.gravatar.com/avatar/27725c444c03016c9d0dc64dcb0f4298?s=128&d=identicon&r=PG&f=1"
+display_name	"polinariabar"
+link	"https://stackoverflow.com/users/12798176/polinariabar"
+is_answered	false
+view_count	13
+answer_count	0
+score	0
+last_activity_date	1624347970
+creation_date	1624347970
+question_id	68079486
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68079486/python-weather-archive-parser-rp5-ru"
+title	"Python weather archive parser rp5.ru"
+17	
+tags	
+0	"api"
+1	"flutter"
+2	"dart"
+3	"async-await"
+owner	
+reputation	37
+user_id	11850259
+user_type	"registered"
+profile_image	"https://www.gravatar.com/avatar/e9658e73912d7e5e5b71e9a23dde9c7e?s=128&d=identicon&r=PG&f=1"
+display_name	"Nikkkshit"
+link	"https://stackoverflow.com/users/11850259/nikkkshit"
+is_answered	false
+view_count	33
+answer_count	1
+score	-1
+last_activity_date	1624162706
+creation_date	1624124889
+last_edit_date	1624131637
+question_id	68049418
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68049418/i-try-to-get-weather-data-by-calling-an-api-in-flutter-dart-but-i-am-not-getting"
+title	"I try to get Weather data by calling an api in Flutter dart but I am not getting the data from api as expected"
+18	
+tags	
+0	"weather-api"
+owner	
+reputation	1
+user_id	16260653
+user_type	"registered"
+profile_image	"https://www.gravatar.com/avatar/1786387dbf9a3f6c819308541fd6fa13?s=128&d=identicon&r=PG&f=1"
+display_name	"gvspraveen113"
+link	"https://stackoverflow.com/users/16260653/gvspraveen113"
+is_answered	false
+view_count	4
+answer_count	0
+score	-1
+last_activity_date	1624017739
+creation_date	1624017739
+question_id	68034828
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68034828/how-to-include-weather-api-to-flutter-application-added-all-the-dependencies-m"
+title	"How to include Weather API to Flutter Application . Added all the dependencies mentioned in pub.dev . I have also imported the import statement given"
+19	
+tags	
+0	"javascript"
+1	"html"
+2	"css"
+3	"api"
+4	"weather"
+owner	
+reputation	31
+user_id	14867437
+user_type	"registered"
+profile_image	"https://www.gravatar.com/avatar/56fbe3f8d488a326c60b975a4cf834c3?s=128&d=identicon&r=PG&f=1"
+display_name	"Prxzc"
+link	"https://stackoverflow.com/users/14867437/prxzc"
+is_answered	false
+view_count	134
+answer_count	0
+score	1
+last_activity_date	1624015984
+creation_date	1609410114
+last_edit_date	1609412235
+question_id	65519565
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/65519565/javascript-weather-widget"
+title	"JavaScript Weather widget"
+has_more	true
+quota_max	300
+quota_remaining	264

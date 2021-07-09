@@ -1,0 +1,55 @@
+Your global Angular CLI version (11.0.2) is greater than your local version (1.0.0). The local Angular CLI version is used.
+
+To disable this warning use "ng config -g cli.warnings.versionMismatch false".
+** NG Live Development Server is running on http://localhost:49152 **
+Hash: 9dcc5c03ddfdf499a0f9
+Time: 10260ms
+chunk    {0} polyfills.bundle.js, polyfills.bundle.js.map (polyfills) 208 kB {4} [initial] [rendered]
+chunk    {1} main.bundle.js, main.bundle.js.map (main) 913 kB {3} [initial] [rendered]
+chunk    {2} styles.bundle.js, styles.bundle.js.map (styles) 93.2 kB {4} [initial] [rendered]        
+chunk    {3} vendor.bundle.js, vendor.bundle.js.map (vendor) 3.54 MB [initial] [rendered]
+chunk    {4} inline.bundle.js, inline.bundle.js.map (inline) 0 bytes [entry] [rendered]
+webpack: Compiled successfully.
+[16:12:39] I/update - chromedriver: file exists C:\angular\uebungen\unicorn-medical\node_modules\protractor\node_modules\webdriver-manager\selenium\chromedriver_91.0.4472.101.zip
+[16:12:39] I/update - chromedriver: unzipping chromedriver_91.0.4472.101.zip
+[16:12:39] I/update - chromedriver: chromedriver_91.0.4472.101.exe up to date
+[16:12:40] I/launcher - Running 1 instances of WebDriver
+[16:12:40] I/direct - Using ChromeDriver directly...
+
+DevTools listening on ws://127.0.0.1:64189/devtools/browser/3f949f43-d6c7-4f73-8476-c35a5a5f1f9e
+[15836:21164:0709/161241.015:ERROR:device_event_log_impl.cc(214)] [16:12:41.015] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: Ein an das System angeschlossenes Gerõt funktioniert nicht. (0x1F)
+[15836:21164:0709/161241.021:ERROR:device_event_log_impl.cc(214)] [16:12:41.021] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: Ein an das System angeschlossenes Gerõt funktioniert nicht. (0x1F)
+[15836:21164:0709/161241.023:ERROR:device_event_log_impl.cc(214)] [16:12:41.023] USB: usb_device_handle_win.cc:1058 Failed to read descriptor from node connection: Ein an das System angeschlossenes Gerõt funktioniert nicht. (0x1F)
+[16:12:42] E/launcher - Error: TSError: ⨯ Unable to compile TypeScript
+Cannot find type definition file for 'jasmine'.
+  The file is in the program because:
+    Entry point of type library 'jasmine' specified in compilerOptions (2688)
+Cannot find type definition file for 'node'.
+  The file is in the program because:
+    Entry point of type library 'node' specified in compilerOptions (2688)
+e2e\src\app.e2e-spec.ts (1,36): Cannot find module './app.po' or its corresponding type declarations. (2307)
+e2e\src\app.e2e-spec.ts (2,34): Cannot find module 'protractor' or its corresponding type declarations. (2307)
+e2e\src\app.e2e-spec.ts (4,1): Cannot find name 'describe'. Do you need to install type definitions for a test runner? Try `npm i --save-dev @types/jest` or `npm i --save-dev @types/mocha` and then add 'jest' or 'mocha' to the types field in your tsconfig. (2593)
+e2e\src\app.e2e-spec.ts (7,3): Cannot find name 'beforeEach'. (2304)
+e2e\src\app.e2e-spec.ts (11,3): Cannot find name 'it'. Do you need to install type definitions for a test runner? Try `npm i --save-dev @types/jest` or `npm i --save-dev @types/mocha` and then add 'jest' or 'mocha' to the types field in your tsconfig. (2593)
+e2e\src\app.e2e-spec.ts (13,5): Cannot find name 'expect'. (2304)
+e2e\src\app.e2e-spec.ts (16,3): Cannot find name 'afterEach'. (2304)
+e2e\src\app.e2e-spec.ts (19,5): Cannot find name 'expect'. (2304)
+e2e\src\app.e2e-spec.ts (20,7): Cannot find name 'jasmine'. (2304)
+    at getOutput (C:\angular\uebungen\unicorn-medical\node_modules\ts-node\src\index.ts:312:17)
+    at C:\angular\uebungen\unicorn-medical\node_modules\ts-node\src\index.ts:343:18
+    at Object.compile (C:\angular\uebungen\unicorn-medical\node_modules\ts-node\src\index.ts:476:19)
+    at Module.m._compile (C:\angular\uebungen\unicorn-medical\node_modules\ts-node\src\index.ts:406:44)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\angular\uebungen\unicorn-medical\node_modules\ts-node\src\index.ts:409:12)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at C:\angular\uebungen\unicorn-medical\node_modules\jasmine\lib\jasmine.js:93:5
+    at Array.forEach (<anonymous>)
+    at Jasmine.loadSpecs (C:\angular\uebungen\unicorn-medical\node_modules\jasmine\lib\jasmine.js:92:18)
+    at Jasmine.execute (C:\angular\uebungen\unicorn-medical\node_modules\jasmine\lib\jasmine.js:197:8)
+    at C:\angular\uebungen\unicorn-medical\node_modules\protractor\built\frameworks\jasmine.js:132:15
+    at Function.promise (C:\angular\uebungen\unicorn-medical\node_modules\protractor\node_modules\q\q.js:682:9)
+[16:12:42] E/launcher - Process exited with error code 100

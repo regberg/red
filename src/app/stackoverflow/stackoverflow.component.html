@@ -1,0 +1,55 @@
+<h3>"{{ keyWordStackoverflowOrWeatherData }}":</h3>
+
+<!-- Hier wird geprüft, ob es sich um einen Eintrag der lokalen Daten oder der Remote-Daten handelt,
+  da die Daten unterschiedlich dargestellt werden sollen.-->
+<div *ngIf="itemsStackoverflowOrWeatherData?.length > 0; else keineEintraege">
+  <ul>
+    <div *ngFor="
+        let item of itemsStackoverflowOrWeatherData | slice: 0:numberLines
+      ">
+      <div *ngIf="item['Datum']">
+        <li>
+          <b>Zeitpunkt der Wetteraufzeichnung:</b> {{ item["Datum"] }},
+          {{ item["Zeit"] }} Uhr
+          <div style="text-indent: 19px">
+            <b>Luftfeuchtigkeit:</b> {{ item["Feuchte A."] }} %
+          </div>
+          <div style="text-indent: 19px">
+            <b>Temperatur tagsüber:</b>
+            {{ item["Temp. A."] }} °C
+          </div>
+          <div style="text-indent: 19px">
+            <b>Temperatur nachts:</b>
+            {{ item["Temp. 3"] }} °C
+          </div>
+          <div style="text-indent: 19px">
+            <b>Luftdruck:</b> {{ item["Luftdruck"] }} hPa
+          </div>
+          <div style="text-indent: 19px">
+            <b>Regen:</b> {{ item["Regen"] }} mm
+          </div>
+          <div style="text-indent: 19px">
+            <b>Wind:</b>
+            {{ item["Wind"] }} km/h
+          </div>
+          <div style="text-indent: 19px">
+            <b>Richtung:</b> {{ item["Richtung"] }} °
+          </div>
+          <div style="text-indent: 19px">
+            <b>Helligkeit:</b> {{ item["Helligkeit"] }} Stunden
+          </div>
+        </li>
+      </div>
+
+      <div *ngIf="item['title']">
+        <li>
+          <a [href]="item['link']" target="_blank"><b>{{ item["title"] }}</b></a>
+        </li>
+      </div>
+    </div>
+  </ul>
+</div>
+
+<ng-template #keineEintraege>
+  <p>Keine Einträge vorhanden!</p>
+</ng-template>

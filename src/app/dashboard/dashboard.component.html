@@ -1,3 +1,25 @@
-<p>
-  Dashboard Komponente...
-</p>
+<h2>
+  Die 10 aktuellsten Fragen von
+  <a href="https://stackoverflow.com/">https://stackoverflow.com/</a> zu
+  folgenden Themen:
+</h2>
+
+<!-- Platzieren der StackoverflowComponent mit den entsprechenden Propertys-->
+
+<app-stackoverflow
+  [keyWordStackoverflowOrWeatherData]="keyWordTypeScript"
+  [numberLines]="numberLines"
+  [itemsStackoverflowOrWeatherData]="itemsTypeScript?.items"
+></app-stackoverflow>
+
+<app-stackoverflow
+  [keyWordStackoverflowOrWeatherData]="keyWordAngular2"
+  [numberLines]="numberLines"
+  [itemsStackoverflowOrWeatherData]="itemsAngular2?.items"
+></app-stackoverflow>
+
+<app-stackoverflow
+  [keyWordStackoverflowOrWeatherData]="keyWordWeather"
+  [numberLines]="numberLines"
+  [itemsStackoverflowOrWeatherData]="resultWeatherDataArray"
+></app-stackoverflow>

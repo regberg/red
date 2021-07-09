@@ -1,0 +1,486 @@
+	
+items	
+0	
+tags	
+0	"angular"
+1	"webstorm"
+2	"jetbrains-ide"
+owner	
+reputation	3119
+user_id	666490
+user_type	"registered"
+accept_rate	82
+profile_image	"https://i.stack.imgur.com/31rKK.jpg?s=128&g=1"
+display_name	"Gullu"
+link	"https://stackoverflow.com/users/666490/gullu"
+is_answered	true
+view_count	3134
+accepted_answer_id	52761759
+answer_count	4
+score	2
+last_activity_date	1625567589
+creation_date	1539199395
+last_edit_date	1539206520
+question_id	52747411
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/52747411/webstorm-unknown-html-tag-angular-2"
+title	"WebStorm unknown HTML tag Angular 2"
+1	
+tags	
+0	"angular"
+1	"angular2-directives"
+owner	
+reputation	3441
+user_id	6633434
+user_type	"registered"
+accept_rate	55
+profile_image	"https://i.stack.imgur.com/Z3AKA.png?s=128&g=1"
+display_name	"Sumit Agarwal"
+link	"https://stackoverflow.com/users/6633434/sumit-agarwal"
+is_answered	false
+view_count	1350
+answer_count	2
+score	2
+last_activity_date	1625566054
+creation_date	1477466518
+last_edit_date	1477466835
+question_id	40256078
+content_license	"CC BY-SA 3.0"
+link	"https://stackoverflow.com/questions/40256078/angular-2-attribute-directive-not-receiving-input-values"
+title	"Angular 2: Attribute Directive not receiving Input Values"
+2	
+tags	
+0	"angular"
+1	"typescript"
+2	"ngfor"
+owner	
+reputation	936
+user_id	7088848
+user_type	"registered"
+profile_image	"https://i.stack.imgur.com/inQcY.jpg?s=128&g=1"
+display_name	"Shreenil Patel"
+link	"https://stackoverflow.com/users/7088848/shreenil-patel"
+is_answered	true
+view_count	56648
+accepted_answer_id	45257090
+answer_count	7
+score	13
+last_activity_date	1625561042
+creation_date	1500736416
+last_edit_date	1608116342
+question_id	45256076
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/45256076/angular-2-attr-disabled-is-not-working-for-div-when-i-try-to-iterate-ngfor-loop"
+title	"Angular 2+ attr.disabled is not working for div when I try to iterate ngFor loop"
+3	
+tags	
+0	"angular"
+1	"typescript"
+2	"ionic2"
+owner	
+reputation	223
+user_id	7719122
+user_type	"registered"
+accept_rate	0
+profile_image	"https://www.gravatar.com/avatar/b4e8bd8547bf2fb9d28aa21eefd6f196?s=128&d=identicon&r=PG&f=1"
+display_name	"Anivaishu"
+link	"https://stackoverflow.com/users/7719122/anivaishu"
+is_answered	true
+view_count	85515
+answer_count	6
+score	19
+last_activity_date	1625510069
+creation_date	1489642790
+last_edit_date	1489649096
+question_id	42826105
+content_license	"CC BY-SA 3.0"
+link	"https://stackoverflow.com/questions/42826105/angular-2-get-input-element-value"
+title	"Angular 2 get Input element value"
+4	
+tags	
+0	"angular"
+1	"angular2-http"
+owner	
+reputation	17204
+user_id	1433665
+user_type	"registered"
+accept_rate	69
+profile_image	"https://www.gravatar.com/avatar/eb67872e230b18666cedb94bd572809f?s=128&d=identicon&r=PG"
+display_name	"TheKojuEffect"
+link	"https://stackoverflow.com/users/1433665/thekojueffect"
+is_answered	true
+view_count	78582
+answer_count	9
+score	52
+last_activity_date	1625491347
+creation_date	1451412969
+last_edit_date	1509825699
+question_id	34516651
+content_license	"CC BY-SA 3.0"
+link	"https://stackoverflow.com/questions/34516651/set-base-url-for-angular-2-http-requests"
+title	"Set base url for angular 2 http requests"
+5	
+tags	
+0	"angular"
+1	"select"
+owner	
+reputation	1678
+user_id	3544102
+user_type	"registered"
+accept_rate	59
+profile_image	"https://i.stack.imgur.com/zdXsm.jpg?s=128&g=1"
+display_name	"Femil Shajin"
+link	"https://stackoverflow.com/users/3544102/femil-shajin"
+is_answered	false
+view_count	9126
+answer_count	1
+score	2
+last_activity_date	1625490190
+creation_date	1482164287
+last_edit_date	1482165398
+question_id	41226850
+content_license	"CC BY-SA 3.0"
+link	"https://stackoverflow.com/questions/41226850/clear-select-value-in-angular-2"
+title	"Clear Select value in Angular 2"
+6	
+tags	
+0	"angular"
+1	"dependency-injection"
+owner	
+reputation	1583
+user_id	573616
+user_type	"registered"
+accept_rate	84
+profile_image	"https://i.stack.imgur.com/pTYhl.jpg?s=128&g=1"
+display_name	"Cheyne"
+link	"https://stackoverflow.com/users/573616/cheyne"
+is_answered	true
+view_count	6250
+accepted_answer_id	40664095
+answer_count	1
+score	11
+last_activity_date	1625443891
+creation_date	1479407798
+last_edit_date	1625443891
+question_id	40662564
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/40662564/angular-2-singleton-service-not-acting-as-singleton"
+title	"Angular 2 singleton service not acting as singleton"
+7	
+tags	
+0	"javascript"
+1	"node.js"
+2	"angular"
+3	"typescript"
+4	"karma-jasmine"
+owner	
+reputation	1533
+user_id	2784523
+user_type	"registered"
+accept_rate	71
+profile_image	"https://www.gravatar.com/avatar/7c7f95a34a7510642c41e3cf1e30cb6c?s=128&d=identicon&r=PG&f=1"
+display_name	"Angela P"
+link	"https://stackoverflow.com/users/2784523/angela-p"
+is_answered	true
+view_count	58049
+accepted_answer_id	44508549
+answer_count	5
+score	123
+last_activity_date	1625424530
+creation_date	1497285295
+last_edit_date	1566485742
+question_id	44504468
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/44504468/angular-2-karma-test-component-name-is-not-a-known-element"
+title	"Angular 2 Karma Test &#39;component-name&#39; is not a known element"
+8	
+tags	
+0	"javascript"
+1	"angular"
+2	"routes"
+3	"angular2-routing"
+owner	
+reputation	2070
+user_id	1005837
+user_type	"registered"
+accept_rate	50
+profile_image	"https://www.gravatar.com/avatar/cb910f595ca7407bc573deeb920bdee7?s=128&d=identicon&r=PG"
+display_name	"Marcos Basualdo"
+link	"https://stackoverflow.com/users/1005837/marcos-basualdo"
+is_answered	true
+view_count	156641
+accepted_answer_id	35620858
+answer_count	11
+score	143
+last_activity_date	1625413574
+creation_date	1456375047
+last_edit_date	1588856383
+question_id	35618463
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/35618463/change-route-params-without-reloading-in-angular-2"
+title	"Change route params without reloading in Angular 2"
+9	
+tags	
+0	"javascript"
+1	"json"
+2	"filter"
+3	"angular"
+4	"pipe"
+owner	
+reputation	3675
+user_id	1864541
+user_type	"registered"
+accept_rate	70
+profile_image	"https://i.stack.imgur.com/qavBR.jpg?s=128&g=1"
+display_name	"Derek"
+link	"https://stackoverflow.com/users/1864541/derek"
+is_answered	true
+view_count	104924
+accepted_answer_id	37375297
+answer_count	5
+score	115
+last_activity_date	1625285720
+creation_date	1463599351
+question_id	37308420
+content_license	"CC BY-SA 3.0"
+link	"https://stackoverflow.com/questions/37308420/angular-2-pipe-that-transforms-json-object-to-pretty-printed-json"
+title	"Angular 2 pipe that transforms JSON object to pretty-printed JSON"
+10	
+tags	
+0	"javascript"
+1	"angular"
+owner	
+reputation	1739
+user_id	2913315
+user_type	"registered"
+accept_rate	23
+profile_image	"https://www.gravatar.com/avatar/3835877e5e30832d22134b2710106834?s=128&d=identicon&r=PG&f=1"
+display_name	"nCore"
+link	"https://stackoverflow.com/users/2913315/ncore"
+is_answered	true
+view_count	12532
+answer_count	4
+score	3
+last_activity_date	1625285424
+creation_date	1477583838
+last_edit_date	1477603574
+question_id	40289237
+content_license	"CC BY-SA 3.0"
+link	"https://stackoverflow.com/questions/40289237/angular-2-prettify-json-pipe-filter"
+title	"Angular 2 prettify JSON pipe filter"
+11	
+tags	
+0	"html"
+1	"templates"
+2	"angular"
+owner	
+reputation	1647
+user_id	4655042
+user_type	"registered"
+profile_image	"https://www.gravatar.com/avatar/4396844fa32af8603eec1795f0ba5fbe?s=128&d=identicon&r=PG&f=1"
+display_name	"janispritzkau"
+link	"https://stackoverflow.com/users/4655042/janispritzkau"
+is_answered	true
+view_count	52722
+accepted_answer_id	41235052
+answer_count	4
+score	125
+last_activity_date	1625229337
+creation_date	1459615567
+last_edit_date	1544031860
+question_id	36376001
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/36376001/using-ngif-without-an-extra-element-in-angular-2"
+title	"Using ngIf without an extra element in Angular 2"
+12	
+tags	
+0	"angular"
+1	"typescript"
+owner	
+reputation	7795
+user_id	1722882
+user_type	"registered"
+accept_rate	100
+profile_image	"https://i.stack.imgur.com/3nr6N.png?s=128&g=1"
+display_name	"Plog"
+link	"https://stackoverflow.com/users/1722882/plog"
+is_answered	true
+view_count	23309
+accepted_answer_id	55684755
+answer_count	4
+score	50
+last_activity_date	1625226124
+creation_date	1504107476
+question_id	45964576
+content_license	"CC BY-SA 3.0"
+link	"https://stackoverflow.com/questions/45964576/type-casting-within-a-template-in-angular-2"
+title	"Type casting within a template in Angular 2"
+13	
+tags	
+0	"debugging"
+1	"angular"
+2	"typescript"
+owner	
+reputation	123
+user_id	1718931
+user_type	"registered"
+profile_image	"https://i.stack.imgur.com/xlGR5.jpg?s=128&g=1"
+display_name	"Lasantha Basnayake"
+link	"https://stackoverflow.com/users/1718931/lasantha-basnayake"
+is_answered	true
+view_count	5148
+accepted_answer_id	38896534
+answer_count	3
+score	3
+last_activity_date	1625177730
+creation_date	1470917748
+question_id	38896140
+content_license	"CC BY-SA 3.0"
+link	"https://stackoverflow.com/questions/38896140/how-to-debug-angular-2-typescript-application"
+title	"How to debug Angular 2 Typescript application"
+14	
+tags	
+0	"angular"
+1	"observable"
+2	"angular2-observables"
+3	"behaviorsubject"
+owner	
+reputation	621
+user_id	4083799
+user_type	"registered"
+accept_rate	86
+profile_image	"https://www.gravatar.com/avatar/e22a7b92c0e91da878746616ea2be9ca?s=128&d=identicon&r=PG&f=1"
+display_name	"Gabriel"
+link	"https://stackoverflow.com/users/4083799/gabriel"
+is_answered	true
+view_count	8278
+accepted_answer_id	68217221
+answer_count	2
+score	3
+last_activity_date	1625175487
+creation_date	1495099230
+question_id	44043635
+content_license	"CC BY-SA 3.0"
+link	"https://stackoverflow.com/questions/44043635/angular-2-subscribe-to-observable-on-change-only"
+title	"Angular 2+ subscribe to observable on change only"
+15	
+tags	
+0	"javascript"
+1	"angular"
+owner	
+reputation	7160
+user_id	467240
+user_type	"registered"
+accept_rate	57
+profile_image	"https://i.stack.imgur.com/NqFMH.jpg?s=128&g=1"
+display_name	"mtyson"
+link	"https://stackoverflow.com/users/467240/mtyson"
+is_answered	true
+view_count	25382
+accepted_answer_id	46729696
+answer_count	4
+score	42
+last_activity_date	1625134499
+creation_date	1482534806
+last_edit_date	1495540970
+question_id	41308826
+content_license	"CC BY-SA 3.0"
+link	"https://stackoverflow.com/questions/41308826/angular-2-debounce-ngmodelchange"
+title	"Angular 2: Debounce (ngModelChange)?"
+16	
+tags	
+0	"angular"
+1	"validation"
+2	"typescript"
+3	"input"
+owner	
+reputation	2760
+user_id	1097284
+user_type	"registered"
+accept_rate	69
+profile_image	"https://www.gravatar.com/avatar/07b51eb51eb5bd4080d76ecf4bcb9138?s=128&d=identicon&r=PG&f=1"
+display_name	"Eusthace"
+link	"https://stackoverflow.com/users/1097284/eusthace"
+is_answered	true
+view_count	125236
+accepted_answer_id	39299486
+answer_count	19
+score	60
+last_activity_date	1625129200
+creation_date	1472590713
+last_edit_date	1506633077
+question_id	39236992
+content_license	"CC BY-SA 3.0"
+link	"https://stackoverflow.com/questions/39236992/how-to-validate-white-spaces-empty-spaces-angular-2"
+title	"How to validate white spaces/empty spaces? [Angular 2]"
+17	
+tags	
+0	"html"
+1	"css"
+2	"angular"
+owner	
+reputation	285
+user_id	8450776
+user_type	"registered"
+accept_rate	67
+profile_image	"https://www.gravatar.com/avatar/fa81546723f6ec1e006c9e2529f71f33?s=128&d=identicon&r=PG&f=1"
+display_name	"Amal"
+link	"https://stackoverflow.com/users/8450776/amal"
+is_answered	true
+view_count	25597
+accepted_answer_id	45921779
+answer_count	4
+score	8
+last_activity_date	1625107313
+creation_date	1503928468
+last_edit_date	1503980813
+question_id	45920722
+content_license	"CC BY-SA 3.0"
+link	"https://stackoverflow.com/questions/45920722/images-not-loading-in-angular-2"
+title	"Images not loading in Angular 2"
+18	
+tags	
+0	"javascript"
+1	"angular"
+owner	
+user_type	"does_not_exist"
+display_name	"user2999287"
+is_answered	true
+view_count	15763
+accepted_answer_id	40300666
+answer_count	6
+score	18
+last_activity_date	1625078075
+creation_date	1477641721
+last_edit_date	1486257813
+question_id	40300635
+content_license	"CC BY-SA 3.0"
+link	"https://stackoverflow.com/questions/40300635/angular-2-runoutsideangular-still-change-the-ui"
+title	"Angular 2 runOutsideAngular still change the UI"
+19	
+tags	
+0	"html"
+1	"angular"
+2	"angular2-forms"
+owner	
+reputation	3034
+user_id	3181492
+user_type	"registered"
+accept_rate	83
+profile_image	"https://www.gravatar.com/avatar/8eb2d073b1570575dc48f6090cabd7af?s=128&d=identicon&r=PG&f=1"
+display_name	"Klyner"
+link	"https://stackoverflow.com/users/3181492/klyner"
+is_answered	true
+view_count	1704
+accepted_answer_id	47199154
+answer_count	3
+score	1
+last_activity_date	1625070616
+creation_date	1510222361
+question_id	47199118
+content_license	"CC BY-SA 3.0"
+link	"https://stackoverflow.com/questions/47199118/how-to-disable-an-enter-action-within-a-form-using-angular-2-4"
+title	"How to disable an enter-action within a form using Angular 2 / 4?"
+has_more	true
+quota_max	300
+quota_remaining	272

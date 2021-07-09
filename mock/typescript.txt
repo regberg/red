@@ -1,0 +1,467 @@
+	
+items	
+0	
+tags	
+0	"javascript"
+1	"typescript"
+2	"ecmascript-6"
+owner	
+reputation	4065
+user_id	3802177
+user_type	"registered"
+accept_rate	67
+profile_image	"https://i.stack.imgur.com/n5YqM.jpg?s=128&g=1"
+display_name	"W.Doch"
+link	"https://stackoverflow.com/users/3802177/w-doch"
+is_answered	true
+view_count	43
+answer_count	4
+score	0
+last_activity_date	1625597722
+creation_date	1625594704
+last_edit_date	1625595796
+question_id	68275417
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68275417/how-to-return-an-object-with-strings-with-typescript-using-the-map-method"
+title	"How to return an object with strings with typescript using the map method?"
+1	
+tags	
+0	"javascript"
+1	"arrays"
+2	"typescript"
+owner	
+reputation	1496
+user_id	5799673
+user_type	"registered"
+accept_rate	73
+profile_image	"https://www.gravatar.com/avatar/f1eb668cc8e910aba87ad3d0502d7da0?s=128&d=identicon&r=PG&f=1"
+display_name	"ebbishop"
+link	"https://stackoverflow.com/users/5799673/ebbishop"
+is_answered	false
+view_count	23
+answer_count	2
+score	2
+last_activity_date	1625597572
+creation_date	1625595804
+question_id	68275659
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68275659/typescript-passing-array-type-check-result-to-a-variable"
+title	"Typescript: passing array type check result to a variable"
+2	
+tags	
+0	"angular"
+1	"typescript"
+2	"pagination"
+3	"angular-material"
+owner	
+reputation	33
+user_id	16095749
+user_type	"registered"
+profile_image	"https://www.gravatar.com/avatar/d91dec97fa5d5b39fc3f4b95f8674655?s=128&d=identicon&r=PG&f=1"
+display_name	"Lwood"
+link	"https://stackoverflow.com/users/16095749/lwood"
+is_answered	false
+view_count	12
+answer_count	1
+score	0
+last_activity_date	1625597532
+creation_date	1625594161
+question_id	68275329
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68275329/angular-material-pagination-typescript"
+title	"Angular Material Pagination / Typescript"
+3	
+tags	
+0	"typescript"
+1	"generics"
+2	"dry"
+3	"typescript-generics"
+owner	
+reputation	109
+user_id	8393310
+user_type	"registered"
+profile_image	"https://i.stack.imgur.com/iJxKs.png?s=128&g=1"
+display_name	"Leon Tepe"
+link	"https://stackoverflow.com/users/8393310/leon-tepe"
+is_answered	true
+view_count	26
+accepted_answer_id	68275233
+answer_count	1
+score	0
+last_activity_date	1625596541
+creation_date	1625589993
+last_edit_date	1625596541
+question_id	68274456
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68274456/typescript-wrapper-for-generic-class-implementation"
+title	"TypeScript: wrapper for generic class implementation"
+4	
+tags	
+0	"typescript"
+1	"mocha.js"
+owner	
+reputation	979
+user_id	476625
+user_type	"registered"
+accept_rate	86
+profile_image	"https://www.gravatar.com/avatar/b2cfce6d01e6f24fece61a6ea3bbff22?s=128&d=identicon&r=PG"
+display_name	"sateayam"
+link	"https://stackoverflow.com/users/476625/sateayam"
+is_answered	false
+view_count	7
+answer_count	0
+score	0
+last_activity_date	1625595818
+creation_date	1625595818
+question_id	68275666
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68275666/typescript-unexpected-token-export-when-running-mocha-unittest"
+title	"Typescript Unexpected token &#39;export&#39; when running mocha Unittest"
+5	
+tags	
+0	"typescript"
+owner	
+reputation	474
+user_id	11123801
+user_type	"registered"
+profile_image	"https://lh6.googleusercontent.com/-Vl9FPzQKrVk/AAAAAAAAAAI/AAAAAAAANKY/0MUj6a8bU5g/photo.jpg?sz=128"
+display_name	"ru4ert"
+link	"https://stackoverflow.com/users/11123801/ru4ert"
+is_answered	true
+view_count	14
+accepted_answer_id	68275543
+answer_count	1
+score	0
+last_activity_date	1625595343
+creation_date	1625594632
+question_id	68275405
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68275405/typescript-index-signature-inhered-normal-type"
+title	"TypeScript Index Signature inhered normal type"
+6	
+tags	
+0	"javascript"
+1	"reactjs"
+2	"typescript"
+owner	
+reputation	13639
+user_id	3775079
+user_type	"registered"
+accept_rate	76
+profile_image	"https://i.stack.imgur.com/cUoYM.jpg?s=128&g=1"
+display_name	"Landeeyo"
+link	"https://stackoverflow.com/users/3775079/landeeyo"
+is_answered	true
+view_count	33
+answer_count	2
+score	1
+last_activity_date	1625595261
+creation_date	1625571423
+last_edit_date	1625595261
+question_id	68269862
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68269862/how-to-conditionally-pass-optional-props-to-component-when-we-use-react-with-typ"
+title	"How to conditionally pass optional props to component when we use React with Typescript?"
+7	
+tags	
+0	"typescript"
+1	"react-native"
+2	"eslint"
+3	"tsconfig"
+4	"eslintrc"
+owner	
+reputation	1
+user_id	15840881
+user_type	"registered"
+profile_image	"https://lh3.googleusercontent.com/a/AATXAJz7pgOdYBCATQcSJMvV3aNrKn6HXGyKoiEkfi1p=k-s128"
+display_name	"Gautier A."
+link	"https://stackoverflow.com/users/15840881/gautier-a"
+is_answered	false
+view_count	3
+answer_count	0
+score	0
+last_activity_date	1625593600
+creation_date	1625593600
+question_id	68275234
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68275234/how-to-fix-eslint-parseroptions-project-has-been-set-for-typescript-eslint-pa"
+title	"How to fix esLint &quot; parserOptions.project has been set for @typescript-eslint/parser &quot;?"
+8	
+tags	
+0	"javascript"
+1	"typescript"
+2	"uri.js"
+owner	
+reputation	1488
+user_id	6289085
+user_type	"registered"
+accept_rate	67
+profile_image	"https://lh4.googleusercontent.com/-8MUZtNdEnY4/AAAAAAAAAAI/AAAAAAAACFg/ZZ_59p5l5ik/photo.jpg?sz=128"
+display_name	"muratoner"
+link	"https://stackoverflow.com/users/6289085/muratoner"
+is_answered	true
+view_count	26959
+accepted_answer_id	58414959
+answer_count	7
+score	17
+last_activity_date	1625593054
+creation_date	1571232438
+question_id	58414515
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/58414515/typescript-3-7beta-optional-chaining-operator-using-problem"
+title	"Typescript 3.7@beta Optional Chaining operator using problem"
+9	
+tags	
+0	"typescript"
+owner	
+reputation	1402
+user_id	1001966
+user_type	"registered"
+accept_rate	43
+profile_image	"https://www.gravatar.com/avatar/61c1ed29afda785eb8b45a9174bc2470?s=128&d=identicon&r=PG"
+display_name	"Bart van den Burg"
+link	"https://stackoverflow.com/users/1001966/bart-van-den-burg"
+is_answered	false
+view_count	12
+answer_count	1
+score	0
+last_activity_date	1625592457
+creation_date	1625591521
+question_id	68274805
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68274805/typescript-reference-type-of-property-by-other-property-of-same-object"
+title	"Typescript: Reference type of property by other property of same object"
+10	
+tags	
+0	"typescript"
+1	"command-line-interface"
+owner	
+reputation	53
+user_id	8955356
+user_type	"registered"
+profile_image	"https://www.gravatar.com/avatar/e8437362b0277eb3d2be248d8a185fb2?s=128&d=identicon&r=PG&f=1"
+display_name	"YellowBoy"
+link	"https://stackoverflow.com/users/8955356/yellowboy"
+is_answered	false
+view_count	15
+answer_count	1
+score	1
+last_activity_date	1625592457
+creation_date	1625588903
+last_edit_date	1625589494
+question_id	68274227
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68274227/how-to-create-a-custom-cli-tool-with-typescript"
+title	"How to create a custom CLI tool with Typescript"
+11	
+tags	
+0	"javascript"
+1	"typescript"
+2	"generics"
+3	"types"
+4	"typescript-generics"
+owner	
+reputation	68
+user_id	8146298
+user_type	"registered"
+profile_image	"https://www.gravatar.com/avatar/9124d46e01df0e329b83cbe56603f971?s=128&d=identicon&r=PG&f=1"
+display_name	"DamienzOnly"
+link	"https://stackoverflow.com/users/8146298/damienzonly"
+is_answered	false
+view_count	11
+answer_count	0
+score	0
+last_activity_date	1625592285
+creation_date	1625592285
+question_id	68274969
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68274969/typescript-inject-type-in-generic-function-while-extracting-its-parameters"
+title	"Typescript: inject type in generic function while extracting its parameters"
+12	
+tags	
+0	"node.js"
+1	"typescript"
+owner	
+reputation	7922
+user_id	94148
+user_type	"registered"
+accept_rate	72
+profile_image	"https://www.gravatar.com/avatar/3f389086dd4cfc8ec5920d82b47a4abc?s=128&d=identicon&r=PG"
+display_name	"aleung"
+link	"https://stackoverflow.com/users/94148/aleung"
+is_answered	true
+view_count	33890
+accepted_answer_id	39145058
+answer_count	5
+score	30
+last_activity_date	1625590286
+creation_date	1472121001
+last_edit_date	1472121196
+question_id	39142858
+content_license	"CC BY-SA 3.0"
+link	"https://stackoverflow.com/questions/39142858/declaring-events-in-a-typescript-class-which-extends-eventemitter"
+title	"Declaring events in a TypeScript class which extends EventEmitter"
+13	
+tags	
+0	"typescript"
+1	"nock"
+owner	
+reputation	399
+user_id	8697391
+user_type	"registered"
+profile_image	"https://www.gravatar.com/avatar/56d7d3a1db321f13736b982d4f1fdf05?s=128&d=identicon&r=PG&f=1"
+display_name	"Lukas Bauer"
+link	"https://stackoverflow.com/users/8697391/lukas-bauer"
+is_answered	false
+view_count	16
+answer_count	1
+score	0
+last_activity_date	1625587649
+creation_date	1625586551
+question_id	68273687
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68273687/typescript-recordstring-any-to-object"
+title	"Typescript - Record&lt;string, any&gt; to Object"
+14	
+tags	
+0	"reactjs"
+1	"typescript"
+owner	
+reputation	920
+user_id	9559251
+user_type	"registered"
+profile_image	"https://lh4.googleusercontent.com/-uu271Qn5OA8/AAAAAAAAAAI/AAAAAAAAACU/po9uUyr2MjI/photo.jpg?sz=128"
+display_name	"LazioTibijczyk"
+link	"https://stackoverflow.com/users/9559251/laziotibijczyk"
+is_answered	false
+view_count	39
+answer_count	1
+score	0
+last_activity_date	1625586973
+creation_date	1625568091
+last_edit_date	1625583216
+question_id	68269070
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68269070/prevstate-typing-in-typescript"
+title	"PrevState typing in TypeScript"
+15	
+tags	
+0	"javascript"
+1	"html"
+2	"angular"
+3	"typescript"
+owner	
+reputation	23
+user_id	12619141
+user_type	"registered"
+profile_image	"https://www.gravatar.com/avatar/bbfdc0de72ec3f2564aee3c36aab755a?s=128&d=identicon&r=PG&f=1"
+display_name	"vaibhav singh baghel"
+link	"https://stackoverflow.com/users/12619141/vaibhav-singh-baghel"
+is_answered	false
+view_count	30
+answer_count	0
+score	0
+last_activity_date	1625586539
+creation_date	1625547077
+last_edit_date	1625586539
+question_id	68264709
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68264709/how-to-call-angular-typescript-file-from-the-javascript-file-in-asset-to-pass-va"
+title	"how to call angular typescript file from the javascript file in asset to pass variable"
+16	
+tags	
+0	"angular"
+1	"ag-grid"
+2	"angular-unit-test"
+3	"angular-spectator"
+owner	
+reputation	399
+user_id	3165644
+user_type	"registered"
+accept_rate	0
+profile_image	"https://www.gravatar.com/avatar/5df901b904eafec54f790a4b8b5a8143?s=128&d=identicon&r=PG&f=1"
+display_name	"Mihir"
+link	"https://stackoverflow.com/users/3165644/mihir"
+is_answered	false
+view_count	22
+answer_count	0
+score	0
+last_activity_date	1625586036
+creation_date	1625524155
+last_edit_date	1625586036
+question_id	68262642
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68262642/angular-typescript-typeerror-cannot-read-property-setdomlayout-of-undefined"
+title	"Angular typescript TypeError: Cannot read property &#39;setDomLayout&#39; of undefined - test component with ag-grid"
+17	
+tags	
+0	"node.js"
+1	"typescript"
+2	"mongodb"
+3	"express"
+4	"multer"
+owner	
+reputation	3
+user_id	16375914
+user_type	"registered"
+profile_image	"https://lh3.googleusercontent.com/a/AATXAJxa3ZcKnnmn0UCU7Umpu_dl4FWPAWVAI65Mm5kA=k-s128"
+display_name	"אור ברמן"
+link	"https://stackoverflow.com/users/16375914/%d7%90%d7%95%d7%a8-%d7%91%d7%a8%d7%9e%d7%9f"
+is_answered	false
+view_count	10
+answer_count	0
+score	0
+last_activity_date	1625585528
+creation_date	1625585528
+question_id	68273409
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68273409/uploading-picture-using-multer-expreess-typescript"
+title	"uploading picture using multer , expreess , typescript"
+18	
+tags	
+0	"javascript"
+1	"typescript"
+2	"axios"
+owner	
+reputation	404
+user_id	9027357
+user_type	"registered"
+accept_rate	67
+profile_image	"https://lh4.googleusercontent.com/-pRs5fZJSxGw/AAAAAAAAAAI/AAAAAAAACro/_r5FV55KT1c/photo.jpg?sz=128"
+display_name	"Brice Chaponneau"
+link	"https://stackoverflow.com/users/9027357/brice-chaponneau"
+is_answered	true
+view_count	25
+answer_count	3
+score	0
+last_activity_date	1625585207
+creation_date	1625501198
+last_edit_date	1625585207
+question_id	68259106
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68259106/typescript-create-custom-type-axios-instance"
+title	"Typescript : Create custom type axios instance"
+19	
+tags	
+0	"openapi-generator"
+owner	
+reputation	1
+user_id	15597098
+user_type	"registered"
+profile_image	"https://lh6.googleusercontent.com/-cR4a3ED8d-g/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckn1yWy7Q_GEJjBdqPezTwT2IW91Q/s96-c/photo.jpg?sz=128"
+display_name	"Edgar Ghazaryan"
+link	"https://stackoverflow.com/users/15597098/edgar-ghazaryan"
+is_answered	false
+view_count	27
+answer_count	2
+score	0
+last_activity_date	1625583860
+creation_date	1625221377
+last_edit_date	1625224264
+question_id	68223531
+content_license	"CC BY-SA 4.0"
+link	"https://stackoverflow.com/questions/68223531/openapi-generator-cli-typescript-axios-get-only-response-data"
+title	"openapi-generator-cli typescript-axios get only response.data"
+has_more	true
+quota_max	300
+quota_remaining	265
