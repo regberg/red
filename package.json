@@ -29,10 +29,10 @@
   "devDependencies": {
     "@angular/cli": "1.0.0",
     "@angular/compiler-cli": "^4.0.0",
-    "@types/jasmine": "2.5.38",
+    "@types/jasmine": "^2.8.18",
     "@types/jest": "^26.0.24",
     "@types/mocha": "^8.2.3",
-    "@types/node": "~6.0.60",
+    "@types/node": "^6.0.118",
     "codelyzer": "~2.0.0",
     "jasmine-core": "~2.5.2",
     "jasmine-spec-reporter": "~3.2.0",

@@ -28,6 +28,7 @@ export class SearchService {
       .get(url + keyword)
       .map((res: Response) => {
         let data = res.json();
+
         console.log(
           "API USAGE: " +
             data.quota_remaining +

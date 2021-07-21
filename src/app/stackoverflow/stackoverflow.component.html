@@ -8,7 +8,44 @@
         let item of itemsStackoverflowOrWeatherData | slice: 0:numberLines
       ">
       <div *ngIf="item['Datum']">
-        <li>
+        <tr>
+          <td><b>Zeitpunkt der Wetteraufzeichnung:</b></td>
+          <td>{{ item["Datum"] }}, {{ item["Zeit"] }} Uhr</td>
+        </tr>
+        <tr>
+          <td><b>Luftfeuchtigkeit:</b></td>
+          <td>{{ item["Feuchte A."] }} %</td>
+        </tr>
+        <tr>
+          <td><b>Temperatur tagsüber:</b></td>
+          <td>{{ item["Temp. A."] }} °C</td>
+        </tr>
+        <tr>
+          <td><b>Temperatur nachts:</b></td>
+          <td>{{ item["Temp. 3"] }} °C</td>
+        </tr>
+        <tr>
+          <td><b>Luftdruck:</b></td>
+          <td>{{ item["Luftdruck"] }} hPa</td>
+        </tr>
+        <tr>
+          <td><b>Regen:</b></td>
+          <td>{{ item["Regen"] }} mm</td>
+        </tr>
+        <tr>
+          <td><b>Wind:</b></td>
+          <td>{{ item["Wind"] }} km/h</td>
+        </tr>
+        <tr>
+          <td><b>Richtung:</b></td>
+          <td>{{ item["Richtung"] }} °</td>
+        </tr>
+        <tr>
+          <td><b>Helligkeit:</b></td>
+          <td>{{ item["Helligkeit"] }} Stunden</td>
+        </tr>
+
+        <!-- <li>
           <b>Zeitpunkt der Wetteraufzeichnung:</b> {{ item["Datum"] }},
           {{ item["Zeit"] }} Uhr
           <div style="text-indent: 19px">
@@ -38,13 +75,15 @@
           <div style="text-indent: 19px">
             <b>Helligkeit:</b> {{ item["Helligkeit"] }} Stunden
           </div>
-        </li>
+        </li> -->
       </div>
 
       <div *ngIf="item['title']">
-        <li>
-          <a [href]="item['link']" target="_blank"><b>{{ item["title"] }}</b></a>
-        </li>
+        <a [href]="item['owner'].link" target="_blank"><img class="image-size" [src]="item['owner'].profile_image"
+            alt="[avatar]" /></a>
+        {{ item["owner"].display_name }},
+        {{ item["creation_date"] | date: "dd.MM.yyyy" }}:
+        <a [href]="item['link']" target="_blank"><b>{{ item["title"] }}</b></a>
       </div>
     </div>
   </ul>

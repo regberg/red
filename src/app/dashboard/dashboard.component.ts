@@ -2,6 +2,7 @@ import { AfterContentChecked, Component, OnInit } from "@angular/core";
 import { SearchService } from "app/core/services/search.service";
 import { Subscription } from "rxjs";
 import * as weatherdata from "app/core/services/weatherdata.json";
+import { format } from "util";
 
 @Component({
   selector: "app-dashboard",
@@ -9,7 +10,7 @@ import * as weatherdata from "app/core/services/weatherdata.json";
   styleUrls: ["./dashboard.component.scss"],
 })
 export class DashboardComponent implements OnInit, AfterContentChecked {
-  constructor(protected readonly searchService: SearchService) {}
+  constructor(protected readonly searchService: SearchService) { }
 
   /**
    * Datenstrukturen, die die darzustellenden Daten je nach Suchbegriff beinhalten
